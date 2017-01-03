@@ -1,3 +1,7 @@
+---
+layout: default
+title: Rápida descripción física, geológica y minera de la isla de Cebú, etc.
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
