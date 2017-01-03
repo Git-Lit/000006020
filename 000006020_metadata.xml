@@ -1,0 +1,42 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:title>Rápida descripción física, geológica y minera de la isla de Cebú, etc. [With maps.]</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>ABELLA Y CASARIEGO, Enrique.</MODS:namePart>
+            <MODS:role>
+              <MODS:roleTerm authority="marcrelator" type="text">creator</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm type="text">Madrid</MODS:placeTerm>
+            </MODS:place>
+            <MODS:dateIssued>1886</MODS:dateIssued>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:physicalDescription>
+            <MODS:extent>187. pl. 7 p. ; 8º.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 010481.h.28.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library OC V 9216</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">Uk</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">1995-03-20</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="w3cdtf">1995-03-20</MODS:recordChangeDate>
+            <MODS:recordIdentifier>000006020</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
